@@ -1,6 +1,6 @@
 # Telcom-Churn-Prediction
 
-# this complete CHURN ANALYSIS project using SQL Server, Power BI & Python, we will cover a wide range of topics which includes
+# This complete CHURN ANALYSIS project using SQL Server, Power BI & Python, we will cover a wide range of topics which includes
 1. ETL process in SQL Server
 2. Data Cleaning in SQL Server
 3. Power BI Transformations
